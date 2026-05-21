@@ -8,3 +8,4 @@ Ten projekt ma na celu stworzenie prostej aplikacji demonstracyjnej, która poka
 # Instrukcja uruchomienia
 Logujemy się na adres **192.168.1.1** loginem *kotek*
 Nowy opis w galezi glownej
+Tymczasowy tekst
